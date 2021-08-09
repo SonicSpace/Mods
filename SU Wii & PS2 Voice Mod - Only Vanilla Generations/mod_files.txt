@@ -1,0 +1,14 @@
+add voice_eng/bb3/voices/English/SonicVoice.ar.00
+add voice_eng/bb3/voices/English/SonicVoice.arl
+add voice_eng/bb3/#Application.ar.00
+add voice_eng/bb3/#Application.arl
+add voice_jpn/bb3/#Application.ar.00
+add voice_jpn/bb3/#Application.arl
+add voice_jpn/bb3/voices/Japanese/SonicVoice.ar.00
+add voice_jpn/bb3/voices/Japanese/SonicVoice.arl
+add su_resul/Sound/SNG19_JNG.cpk
+add su_resul/Sound/SNG19_JNG.csb
+add SonicSpace.dll
+add UnleashedVoice.hmm
+add WiiUnleashedVoice.json
+add mod.ini
