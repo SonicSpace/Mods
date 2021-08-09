@@ -1,3 +1,7 @@
+add voice_eng/bb/cmn200.ar.00
+add voice_eng/bb/cmn200.arl
+add voice_jpn/bb/cmn200.ar.00
+add voice_jpn/bb/cmn200.arl
 add voice_eng/bb3/voices/English/SonicVoice.ar.00
 add voice_eng/bb3/voices/English/SonicVoice.arl
 add voice_eng/bb3/#Application.ar.00
