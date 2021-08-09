@@ -1,4 +1,4 @@
-## Sonic Unleashed Wii & PS2 Voice Mod - Update 2.1
+## Sonic Unleashed Wii & PS2 Voice Mod - Update 2.2
 
 - Improvement: Now you can disable or enable Sonic Unleashed Results, just right click on mod and go to "Configure Mod"
 - Adjustment: Titles and Descriptions of Available Options
