@@ -1,9 +1,9 @@
 add voice_eng/bb3/voices/English/SonicVoice.ar.00
 add voice_eng/bb3/voices/English/SonicVoice.arl
-add voice_eng/bb3/voices/English/#Application.ar.00
-add voice_eng/bb3/voices/English/#Application.arl
-add voice_jpn/bb3/voices/Japanese/#Application.ar.00
-add voice_jpn/bb3/voices/Japanese/#Application.arl
+add voice_eng/bb3/voices/#Application.ar.00
+add voice_eng/bb3/voices/#Application.arl
+add voice_jpn/bb3/voices/#Application.ar.00
+add voice_jpn/bb3/voices/#Application.arl
 add voice_jpn/bb3/voices/Japanese/SonicVoice.ar.00
 add voice_jpn/bb3/voices/Japanese/SonicVoice.arl
 add su_resul/Sound/SNG19_JNG.cpk
