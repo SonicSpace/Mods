@@ -1,3 +1,18 @@
+delete su_resul/Sound/SNG19_JNG.cpk
+delete su_resul/SNG19_JNG.csb
+delete voice_eng/bb3/voices/English/SonicVoice.ar.00
+delete voice_eng/bb3/voices/English/SonicVoice.arl
+delete voice_eng/bb3/voices/#Application.ar.00
+delete voice_jpn/bb3/voices/#Application.arl
+delete voice_jpn/bb3/#Application.ar.00
+delete voice_jpn/bb3/#Application.arl
+delete voice_jpn/bb3/voices/Japanese/SonicVoice.ar.00
+delete voice_jpn/bb3/voices/Japanese/SonicVoice.arl
+delete mod.ini
+delete readme.txt
+delete SonicSpace.dll
+delete UnleashedVoice.hmm
+delete WiiUnleashedVoice.json
 add su_botPS/bb/SonicActionCommon.ar.00
 add su_botPS/bb/SonicActionCommon.arl
 add su_jpsPlays/bb/JumpSelectorBTN.ar.00
@@ -134,6 +149,7 @@ add voice_jpn/bb3/adabatAmb.ar.00
 add voice_jpn/bb3/adabatAmb.arl
 add voice_jpn/bb3/etfdoor.ar.00
 add voice_jpn/bb3/etfdoor.arl
+add su_max
 add su_botXb
 add SonicSpace.dll
 add UnleashedVoice.hmm
