@@ -23,10 +23,6 @@ add voice_eng/bb/cmn200.ar.00
 add voice_eng/bb/cmn200.arl
 add voice_jpn/bb/cmn200.ar.00
 add voice_jpn/bb/cmn200.arl
-add voice_eng/bb3/voices/English/SonicVoice.ar.00
-add voice_eng/bb3/voices/English/SonicVoice.arl
-add voice_jpn/bb3/voices/Japanese/SonicVoice.ar.00
-add voice_jpn/bb3/voices/Japanese/SonicVoice.arl
 add su_resul/Sound/SNG19_JNG.cpk
 add su_resul/Sound/SNG19_JNG.csb
 add voice_eng/bb/#cpz200.ar.00
@@ -149,6 +145,10 @@ add voice_jpn/bb3/adabatAmb.ar.00
 add voice_jpn/bb3/adabatAmb.arl
 add voice_jpn/bb3/etfdoor.ar.00
 add voice_jpn/bb3/etfdoor.arl
+add voice_eng/bb3/voices/English/SonicVoice.ar.00
+add voice_eng/bb3/voices/English/SonicVoice.arl
+add voice_jpn/bb3/voices/Japanese/SonicVoice.ar.00
+add voice_jpn/bb3/voices/Japanese/SonicVoice.arl
 add su_max
 add su_botXb
 add SonicSpace.dll
