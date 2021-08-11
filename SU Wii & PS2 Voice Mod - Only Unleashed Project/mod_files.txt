@@ -1,4 +1,4 @@
-add SU Wii & PS2 Voice Mod - Only Unleashed Project
+add SU Wii & PS2 Voice Mod - Only Unleashed Project.folder
 add mod.ini
 add su_botPS/bb/SonicActionCommon.ar.00
 add su_botPS/bb/SonicActionCommon.arl
