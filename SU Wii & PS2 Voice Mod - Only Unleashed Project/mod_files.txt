@@ -1,11 +1,5 @@
-delete su_max.folder
-delete su_resul.folder
-delete voice_eng.folder
-delete voice_jpn.folder
-delete readme.txt
-delete SonicSpace.dll
-delete UnleashedVoice.hmm
-delete WiiUnleashedVoice.json
+add SU Wii & PS2 Voice Mod - Only Unleashed Project
+add mod.ini
 add su_botPS/bb/SonicActionCommon.ar.00
 add su_botPS/bb/SonicActionCommon.arl
 add su_jpsPlays/bb/JumpSelectorBTN.ar.00
@@ -147,4 +141,4 @@ add su_botXb
 add SonicSpace.dll
 add UnleashedVoice.hmm
 add WiiUnleashedVoice.json
-add mod.ini
+
