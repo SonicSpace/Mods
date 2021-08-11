@@ -2,7 +2,6 @@ delete su_max.folder
 delete su_resul.folder
 delete voice_eng.folder
 delete voice_jpn.folder
-delete mod.ini
 delete readme.txt
 delete SonicSpace.dll
 delete UnleashedVoice.hmm
