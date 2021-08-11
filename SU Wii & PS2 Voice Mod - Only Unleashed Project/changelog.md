@@ -7,9 +7,6 @@
 - Removal: Sonic Unleashed Results - Ranks E, D, C, B, A and S, models from Sonic Unleashed HD (PS3/X360)
 
 
-
-
-
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.3
 
 - BugFix: Sonic Unleashed Quick Step SFX wasn't playing, it was just Generations sound standard.
