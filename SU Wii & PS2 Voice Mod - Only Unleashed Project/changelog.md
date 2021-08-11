@@ -1,5 +1,6 @@
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.4
 
+- Addition: Sonic Unleashed Materials - Jump Select, RainbowRings And More
 - Addition: Sonic Unleashed Jump Select Controller Type - Xbox And Playstation Buttons
 - Addition: Sonic Unleashed Controller Type: Playstation And Xbox
 - Addition: Sonic Unleashed Wii/PS2 Rainbowring SFX Voice - English And Japanese
