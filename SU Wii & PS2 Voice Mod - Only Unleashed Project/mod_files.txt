@@ -7,6 +7,12 @@ delete readme.txt
 delete SonicSpace.dll
 delete UnleashedVoice.hmm
 delete WiiUnleashedVoice.json
+add su_max
+add su_botXb
+add readme.txt
+add SonicSpace.dll
+add UnleashedVoice.hmm
+add WiiUnleashedVoice.json
 add su_botPS\bb\SonicActionCommon.ar.00
 add su_botPS\bb\SonicActionCommon.arl
 add su_jpsPlays\bb\JumpSelectorBTN.ar.00
@@ -143,9 +149,3 @@ add voice_eng\bb3\voices\English\SonicVoice.ar.00
 add voice_eng\bb3\voices\English\SonicVoice.arl
 add voice_jpn\bb3\voices\Japanese\SonicVoice.ar.00
 add voice_jpn\bb3\voices\Japanese\SonicVoice.arl
-add su_max
-add su_botXb
-add readme.txt
-add SonicSpace.dll
-add UnleashedVoice.hmm
-add WiiUnleashedVoice.json
