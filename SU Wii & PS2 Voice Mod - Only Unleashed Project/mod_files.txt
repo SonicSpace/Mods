@@ -1,13 +1,7 @@
-delete su_resul/Sound/SNG19_JNG.cpk
-delete su_resul/SNG19_JNG.csb
-delete voice_eng/bb3/voices/English/SonicVoice.ar.00
-delete voice_eng/bb3/voices/English/SonicVoice.arl
-delete voice_eng/bb3/voices/#Application.ar.00
-delete voice_jpn/bb3/voices/#Application.arl
-delete voice_jpn/bb3/#Application.ar.00
-delete voice_jpn/bb3/#Application.arl
-delete voice_jpn/bb3/voices/Japanese/SonicVoice.ar.00
-delete voice_jpn/bb3/voices/Japanese/SonicVoice.arl
+delete su_max
+delete su_resul
+delete voice_eng
+delete voice_jpn
 delete mod.ini
 delete readme.txt
 delete SonicSpace.dll
