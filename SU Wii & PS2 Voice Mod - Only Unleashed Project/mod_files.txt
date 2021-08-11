@@ -1,7 +1,7 @@
-delete su_max
-delete su_resul
-delete voice_eng
-delete voice_jpn
+delete su_max.folder
+delete su_resul.folder
+delete voice_eng.folder
+delete voice_jpn.folder
 delete mod.ini
 delete readme.txt
 delete SonicSpace.dll
