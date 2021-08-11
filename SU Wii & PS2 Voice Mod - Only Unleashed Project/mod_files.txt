@@ -1,5 +1,18 @@
-add SU Wii & PS2 Voice Mod - Only Unleashed Project.folder
 add mod.ini
+delete su_resul\Sound\SNG19_JNG.cpk
+delete su_resul\SNG19_JNG.csb
+delete voice_eng\bb3\voices\English\SonicVoice.ar.00
+delete voice_eng\bb3\voices\English\SonicVoice.arl
+delete voice_eng\bb3\voices\#Application.ar.00
+delete voice_jpn\bb3\voices\#Application.arl
+delete voice_jpn\bb3\#Application.ar.00
+delete voice_jpn\bb3\#Application.arl
+delete voice_jpn\bb3\voices\Japanese/SonicVoice.ar.00
+delete voice_jpn\bb3\voices\Japanese/SonicVoice.arl
+delete readme.txt
+delete SonicSpace.dll
+delete UnleashedVoice.hmm
+delete WiiUnleashedVoice.json
 add su_botPS/bb/SonicActionCommon.ar.00
 add su_botPS/bb/SonicActionCommon.arl
 add su_jpsPlays/bb/JumpSelectorBTN.ar.00
