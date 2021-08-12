@@ -1,0 +1,11 @@
+Patch "Unleashed Voice Swap" by "brianuuu"
+WriteProtected<byte>(0x123196F, 0x14);
+WriteProtected<uint>(0x1231971, 0x2DCE9D); /*Lightdash*/
+WriteProtected<uint>(0xE4B684, 0xFFFFFF); /*Tricks (disable)*/
+WriteProtected<byte>(0xE4B8DE, 0x14);
+WriteProtected<uint>(0xE4B8E0, 0x2DCE9D); /*Trick finish*/
+WriteProtected<uint>(0xDF3710, 0x2DCEA3); /*Drift*/
+WriteProtected<byte>(0xDF0C06, 0x14);
+WriteProtected<uint>(0xDF0C08, 0x2DCE9D); /*4-way cannon (false direction on Unleashed jump selector)*/
+WriteProtected<byte>(0xDF0B94, 0x14);
+WriteProtected<uint>(0xDF0B96, 0x2DCE9D); /*true direction on Unleashed jump selector (Unused in Generations)*/
