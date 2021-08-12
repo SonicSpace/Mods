@@ -1,3 +1,9 @@
+## Sonic Unleashed Wii & PS2 Voice Mod (To Vanilla Generations) - Update 2.3.1
+
+- Addition: Sonic Unleashed Controller Type: Playstation And Xbox
+- Addition: Sonic Unleashed Wii/PS2 rBooster SFX Voice - English And Japanese
+
+
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Vanilla Generations) - Update 2.3
 
 - BugFix: Sonic Unleashed Quick Step SFX wasn't playing, it was just Generations sound standard.

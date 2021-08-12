@@ -29,6 +29,19 @@
                "DefaultValue": "su_resul"
           
             },
+
+
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Sonic Unleashed Controller Type:",
+               "Description": [
+                  "Determine what type of console controls you want to use in game."
+               ],
+               "Type": "ButtonsGenerationsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "su_botXb"
+            }
          ]
       }
    ],
@@ -67,6 +80,25 @@
                "Disable Sonic Unleashed Results Music",
             ]
          },
+
+      ],
+      
+      
+      "ButtonsGenerationsEnum": [
+         {
+            "DisplayName": "Playstation Controller",
+            "Value": "su_botPS",
+            "Description": [
+               "Change the Control Type for the console within the game - Playstation 3."
+            ]
+         },
+         {
+            "DisplayName": "Xbox Controller",
+            "Value": "su_botXb",
+            "Description": [
+               "Change the Control Type for the console within the game - Xbox 360."
+            ]
+         }
 
          
      ],
