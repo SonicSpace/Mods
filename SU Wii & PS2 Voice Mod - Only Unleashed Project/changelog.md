@@ -1,3 +1,9 @@
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.4.1
+
+- Removal: ThornSpring.ar.00 And ThornSpring.arl
+  Note: These are unnecessary files that are causing conflicts with StompingSwitch.ar.00 And StompingSwitch.arl
+
+
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.4
 
 - Addition: Sonic Unleashed Materials - Jump Select, RainbowRings And More

@@ -48,8 +48,6 @@ add voice_eng\bb\sph200.ar.00
 add voice_eng\bb\sph200.arl
 add voice_eng\bb\StompingSwitch.ar.00
 add voice_eng\bb\StompingSwitch.arl
-add voice_eng\bb\ThornSpring.ar.00
-add voice_eng\bb\ThornSpring.arl
 add voice_eng\bb\trickringgone.ar.00
 add voice_eng\bb\trickringgone.arl
 add voice_eng\bb2\#csc200.ar.00
@@ -108,8 +106,6 @@ add voice_jpn\bb\sph200.ar.00
 add voice_jpn\bb\sph200.arl
 add voice_jpn\bb\StompingSwitch.ar.00
 add voice_jpn\bb\StompingSwitch.arl
-add voice_jpn\bb\ThornSpring.ar.00
-add voice_jpn\bb\ThornSpring.arl
 add voice_jpn\bb\trickringgone.ar.00
 add voice_jpn\bb\trickringgone.arl
 add voice_jpn\bb2\#csc200.ar.00
