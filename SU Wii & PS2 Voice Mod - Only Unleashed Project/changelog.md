@@ -1,3 +1,10 @@
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Final Update
+
+- Improvement: Fixed some bugs
+- Removal: DashRing SFX Sonic Voice | Note: It is not necessary, as the Wii version does not even have the voice in the dashring.
+- Adjustment: Sonic Voice Japanese Version | The audio volume values ​​are now correct and are firmly in the same pattern without any kind of low or high in the voices.
+
+
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.4.1
 
 - Removal: ThornSpring.ar.00 And ThornSpring.arl
