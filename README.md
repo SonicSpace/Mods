@@ -1,5 +1,5 @@
-# Mods-Generations
-Public Update Server For Mods I've Released
+# Sonic Generations Mods
+- Public Update Server For Mods I Launched And For Downloading Mods!
 
 • Youtube: https://youtube.com/cxiovs
 • Twitter: https://twitter.com/caiov2q
