@@ -1,3 +1,8 @@
+## Sonic Unleashed Wii & PS2 Voice Mod - Final Update
+
+- Adjustment: Sonic Voice Japanese Version | The audio volume values ​​are now correct and are firmly in the same pattern without any kind of low or high in the voices.
+
+
 ## Sonic Unleashed Wii & PS2 Voice Mod - Update 2.2
 
 - Improvement: Now you can disable or enable Sonic Unleashed Results, just right click on mod and go to "Configure Mod"

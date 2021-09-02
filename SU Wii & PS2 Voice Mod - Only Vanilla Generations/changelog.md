@@ -1,3 +1,8 @@
+## Sonic Unleashed Wii & PS2 Voice Mod (To Vanilla Generations ) - Final Update
+
+- Adjustment: Sonic Voice Japanese Version | The audio volume values ​​are now correct and are firmly in the same pattern without any kind of low or high in the voices.
+
+
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Vanilla Generations) - Update 2.3.1
 
 - Addition: Sonic Unleashed Controller Type: Playstation And Xbox
