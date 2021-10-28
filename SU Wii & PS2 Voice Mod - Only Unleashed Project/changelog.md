@@ -1,17 +1,22 @@
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Final Update
+## Sonic Unleashed Wii & PS2 Voice Mod - Final Update v3.1
+
+- BugFix: Fixed the issue of Server updates on Github, now old versions can update normally to Final version ( v3.0 )
+
+
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Final Update v3.0
 
 - Improvement: Fixed some bugs
 - Removal: DashRing SFX Sonic Voice | Note: It is not necessary, as the Wii version does not even have the voice in the dashring.
 - Adjustment: Sonic Voice Japanese Version | The audio volume values ​​are now correct and are firmly in the same pattern without any kind of low or high in the voices.
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.4.1
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v2.4.1
 
 - Removal: ThornSpring.ar.00 And ThornSpring.arl
   Note: These are unnecessary files that are causing conflicts with StompingSwitch.ar.00 And StompingSwitch.arl
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.4
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v2.4
 
 - Addition: Sonic Unleashed Materials - Jump Select, RainbowRings And More
 - Addition: Sonic Unleashed Jump Select Controller Type - Xbox And Playstation Buttons
@@ -21,32 +26,32 @@
 - Removal: Sonic Unleashed Results - Ranks E, D, C, B, A and S, models from Sonic Unleashed HD (PS3/X360)
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.3
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v2.3
 
 - BugFix: Sonic Unleashed Quick Step SFX wasn't playing, it was just Generations sound standard.
 - Addition: Sonic Unleashed Wii/PS2 (SFX) - Player Sounds
 - Addition: Sonic Unleashed Quick Time Event SFX On Tricks
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.2
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v2.2
 
 - Improvement: Now you can disable or enable Sonic Unleashed Results, just right click on mod and go to "Configure Mod"
 - Adjustment: Titles and Descriptions of Available Options
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.1
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v2.1
 
 - Improvement: Sonic Unleashed Results - Working perfectly
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 2.0
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v2.0
 
 - Addition: Quick Step SFX From Sonic Unleashed Wii/PS2.
 - Addition: Now you can configure in HedgeModManager if you want a Japanese or English version *Note: Quick Step Works in Both Languages*
 - Overhaul: Sonic Unleashed Results Is Still Having Conflicts 
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update 1.0
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Update v1.0
 
 - Addition: Japanese Voice Version
 - Removal: Sonic Unleashed Results - Temporarily
