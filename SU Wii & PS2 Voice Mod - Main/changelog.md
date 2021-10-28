@@ -7,6 +7,15 @@
 
 - Adjustment: Sonic Voice Japanese Version | The audio volume values ​​are now correct and are firmly in the same pattern without any kind of low or high in the voices.
 
+## Sonic Unleashed Wii & PS2 Voice Mod - Final Update 3.1
+
+- BugFix UpdateServer: The problem of not downloading files correctly directly from Github has been fixed.
+
+
+## Sonic Unleashed Wii & PS2 Voice Mod - Final Update
+
+- Adjustment: Sonic Voice Japanese Version | The audio volume values ​​are now correct and are firmly in the same pattern without any kind of low or high in the voices.
+
 
 ## Sonic Unleashed Wii & PS2 Voice Mod - Update v2.2
 
