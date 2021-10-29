@@ -1,6 +1,6 @@
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project)- Final Update v3.3
 
-- Adjustament: Fixed downloading files from Github. ## Final Version ## (v3.3)
+- Adjustament: Downloading files from Github. ## Final Version ## (v3.3)
 
 
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project)- Final Update v3.2
