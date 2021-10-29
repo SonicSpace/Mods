@@ -6,8 +6,8 @@ add mod.ini
 add su_botXb/UpdateServer1.txt
 add su_max/UpdateServer2.txt
 delete changelog.md
-delete mod_files
-delete mod_version
+delete mod_files.txt
+delete mod_version.ini
 delete su_resul
 delete voice_eng
 delete voice_jpn
