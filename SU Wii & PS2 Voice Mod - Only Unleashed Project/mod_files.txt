@@ -3,7 +3,7 @@ add voice_eng/bb/cmn200.ar.01
 add voice_jpn/bb/cmn200.ar.01
 delete voice_jpn\bb\cmn200.ar.01
 delete voice_eng\bb\cmn200.ar.01
-add voice_eng\bb\cpz_cmn.ar.01
+delete voice_eng\bb\cpz_cmn.ar.01
 add mod.ini
 add su_botXb/UpdateServer1.txt
 add su_max/UpdateServer2.txt
