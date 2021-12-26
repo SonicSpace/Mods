@@ -1,5 +1,5 @@
-delete su_botPS\
-delete su_botPS\
+delete su_botPS.dir
+delete su_botXb.dir
 add voice_eng/bb/cmn200.ar.01
 add voice_jpn/bb/cmn200.ar.01
 delete voice_jpn\bb\cmn200.ar.01
