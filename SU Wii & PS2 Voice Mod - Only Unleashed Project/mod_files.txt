@@ -3,8 +3,6 @@ delete su_botPS\bb\SonicActionCommon.arl
 delete su_botXb\bb\SonicActionCommon.ar.00
 delete su_botXb\SonicActionCommon.arl
 delete su_botXb\UpdateServer1.txt
-add voice_eng/bb/cmn200.ar.01
-add voice_jpn/bb/cmn200.ar.01
 delete voice_jpn\bb\cmn200.ar.01
 delete voice_eng\bb\cmn200.ar.01
 add mod.ini
