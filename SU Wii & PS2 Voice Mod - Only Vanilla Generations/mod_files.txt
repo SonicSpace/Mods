@@ -6,10 +6,10 @@ delete voice_jpn
 delete SonicSpace.dll
 delete UnleashedVoice.hmm
 delete WiiUnleashedVoice.json
-add su_botPS/bb/SonicActionCommon.ar.00
-add su_botPS/bb/SonicActionCommon.arl
-add su_botXb/UpdateServer1.txt
-add su_max/UpdateServer2.txt
+delete su_botPS/bb/SonicActionCommon.ar.00
+delete su_botPS/bb/SonicActionCommon.arl
+delete su_botXb/UpdateServer1.txt
+delete su_max/UpdateServer2.txt
 add su_resul/Sound/SNG19_JNG.cpk
 add su_resul/Sound/SNG19_JNG.csb
 add voice_eng/bb/cmn200.ar.00
