@@ -1,10 +1,10 @@
+delete su_botPS
+delete su_botPS
 add voice_eng/bb/cmn200.ar.01
 add voice_jpn/bb/cmn200.ar.01
 delete voice_jpn\bb\cmn200.ar.01
 delete voice_eng\bb\cmn200.ar.01
 add mod.ini
-add su_botXb/UpdateServer1.txt
-add su_max/UpdateServer2.txt
 delete changelog.md
 delete mod_files.txt
 delete mod_version.ini
@@ -15,8 +15,6 @@ delete readme.txt
 delete SonicSpace.dll
 delete UnleashedVoice.hmm
 delete WiiUnleashedVoice.json
-add su_botPS/bb/SonicActionCommon.ar.00
-add su_botPS/bb/SonicActionCommon.arl
 add su_jpsPlays/bb/JumpSelectorBTN.ar.00
 add su_jpsPlays/bb/JumpSelectorBTN.arl
 add su_jpsXbox/bb/JumpSelectorBTN.ar.00
