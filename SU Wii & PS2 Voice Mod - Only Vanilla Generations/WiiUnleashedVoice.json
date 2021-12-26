@@ -8,7 +8,7 @@
                "Name": "IncludeDir0",
                "DisplayName": "Select Voice Type:",
                "Description": [
-                  "This system determines which voices will be used within the game. Sonic Unleashed Wii/PS2 Voice - English or Japanese.",
+                  "This system determines which voices will be used within the game. Sonic Unleashed Wii/PS2 Voice - English or Japanese."
                ],
                "Type": "VoiceEnum",
                "MinValue": null,
@@ -21,27 +21,15 @@
                "Name": "IncludeDir1",
                "DisplayName": "Sonic Unleashed Results:",
                "Description": [
-                  "Play the Sonic Unleashed Results song",
+                  "Play the Sonic Unleashed Results song"
                ],
                "Type": "ResultsEnum",
                "MinValue": null,
                "MaxValue": null,
                "DefaultValue": "su_resul"
           
-            },
-
-
-            {
-               "Name": "IncludeDir2",
-               "DisplayName": "Sonic Unleashed Controller Type:",
-               "Description": [
-                  "Determine what type of console controls you want to use in game."
-               ],
-               "Type": "ButtonsGenerationsEnum",
-               "MinValue": null,
-               "MaxValue": null,
-               "DefaultValue": "su_botXb"
             }
+
          ]
       }
    ],
@@ -51,16 +39,16 @@
             "DisplayName": "English",
             "Value": "voice_eng",
             "Description": [
-               "Use the English voice made for Sonic Unleashed Wii/PS2.",
+               "Use the English voice made for Sonic Unleashed Wii/PS2."
             ]
          },
          {
             "DisplayName": "Japanese",
             "Value": "voice_jpn",
             "Description": [
-               "Use the Japanese voice made for Sonic Unleashed Wii/PS2.",
+               "Use the Japanese voice made for Sonic Unleashed Wii/PS2."
             ]
-         },
+         }
          
       ],
       
@@ -70,38 +58,18 @@
             "DisplayName": "Enable",
             "Value": "su_resul",
             "Description": [
-               "Enable Sonic Unleashed Results Music",
+               "Enable Sonic Unleashed Results Music"
             ]
          },
          {
             "DisplayName": "Disable",
             "Value": "su_max",
             "Description": [
-               "Disable Sonic Unleashed Results Music",
-            ]
-         },
-
-      ],
-      
-      
-      "ButtonsGenerationsEnum": [
-         {
-            "DisplayName": "Playstation Controller",
-            "Value": "su_botPS",
-            "Description": [
-               "Change the Control Type for the console within the game - Playstation 3."
-            ]
-         },
-         {
-            "DisplayName": "Xbox Controller",
-            "Value": "su_botXb",
-            "Description": [
-               "Change the Control Type for the console within the game - Xbox 360."
+               "Disable Sonic Unleashed Results Music"
             ]
          }
-
          
-     ],
+     ]
    },
    "IniFile": "mod.ini"
 }
