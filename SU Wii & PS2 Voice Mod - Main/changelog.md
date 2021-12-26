@@ -1,14 +1,14 @@
-## Sonic Unleashed Wii & PS2 Voice Mod - v3.3
+## Sonic Unleashed Wii & PS2 Voice Mod - v2.3.2
 
-- BugFix: Fixed the issue of Server updates on Github, now old versions can update normally to Final version ( v3.0 )
+- BugFix: Fixed the issue of Server updates on Github, now old versions can update normally to Final version ( v2.0 )
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod - v3.2
+## Sonic Unleashed Wii & PS2 Voice Mod - v2.3.1
 
 - BugFix UpdateServer: The problem of not downloading files correctly directly from Github has been fixed.
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod - v3.1
+## Sonic Unleashed Wii & PS2 Voice Mod - v2.3
 
 - Adjustment: Sonic Voice Japanese Version | The audio volume values are now correct and are firmly in the same pattern without any kind of low or high in the voices.
 
