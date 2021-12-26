@@ -1,6 +1,6 @@
 ## ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3.3
 
-- Removal: Sonic Unleashed PS3/Xbox Controller Type 
+- Removal: Sonic Unleashed PS3/Xbox Controller Type //
     Notes - Use Sonic Unleashed HUD for: To show the types of controls on screen, the Mod is much more developed and has PS3/X360 or better versions. ( https://gamebanana.com/mods/33968)
 
 
