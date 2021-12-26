@@ -1,0 +1,110 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Sonic Unleashed Wii & PS2 Voice Mod - Configuration",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Select Voice Type:",
+               "Description": [
+                  "This system determines which voices will be used within the game. Sonic Unleashed Wii/PS2 Voice - English or Japanese."
+               ],
+               "Type": "VoiceEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "voice_eng"
+            },
+            
+           
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Sonic Unleashed Results:",
+               "Description": [
+                  "Play the Sonic Unleashed Results song."
+               ],
+               "Type": "ResultsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "su_resul"
+
+            },   
+            
+            
+            {
+              
+               "Name": "IncludeDir2",
+               "DisplayName": "Sonic Unleashed Jump Select Controller Type:",
+               "Description": [
+                  "Determine what type of console controls you want to use in Sonic Unleashed's Jump Select. NOTE: Only enable this option with the ON!!!! -Unleashing Unleashed-"
+               ],
+               "Type": "JumpSelectEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "su_jpsXbox"
+
+            }
+
+         ]
+      }
+   ],
+   "Enums": {
+      "VoiceEnum": [
+         {
+            "DisplayName": "English",
+            "Value": "voice_eng",
+            "Description": [
+               "Use the English voice made for Sonic Unleashed Wii/PS2."
+            ]
+         },
+         {
+            "DisplayName": "Japanese",
+            "Value": "voice_jpn",
+            "Description": [
+               "Use the Japanese voice made for Sonic Unleashed Wii/PS2."
+            ]
+         }
+     
+      ],
+
+
+     "ResultsEnum": [
+        {
+            "DisplayName": "Enable",
+            "Value": "su_resul",
+            "Description": [
+               "Enable Sonic Unleashed Results Music."
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "su_max",
+            "Description": [
+               "Disable Sonic Unleashed Results Music."
+            ]
+         }
+ 
+      ],
+
+
+      "JumpSelectEnum": [
+         {
+            "Displayname": "Playstation Buttons",
+            "Value": "su_jpsPlays",
+            "Description": [
+               "Change jump type Select referring to console control - Playstation."
+            ]
+         },
+         {
+         
+            "DisplayName": "Xbox Buttons",
+            "Value": "su_jpsXbox",
+            "Description": [
+               "Change jump type Select referring to console control - Xbox."
+            ]
+         }
+
+      ]
+   },
+   "IniFile": "mod.ini"
+}
