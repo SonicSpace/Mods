@@ -5,9 +5,7 @@ delete su_botXb\bb\SonicActionCommon.ar.00
 delete su_botXb\SonicActionCommon.arl
 delete su_botXb\UpdateServer1.txt
 delete voice_eng\bb\cmn200.ar.01
-delete voice_eng\bb\cpz_cmn.ar.01
 delete voice_jpn\bb\cmn200.ar.01
-delete voice_jpn\bb\cpz_cmn.ar.01
 delete changelog.md
 delete mod_files.txt
 delete mod_version.ini
@@ -26,6 +24,7 @@ add voice_jpn/bb/cmn200.arl
 add su_resul/Sound/SNG19_JNG.cpk
 add su_resul/Sound/SNG19_JNG.csb
 add voice_eng/bb/#cpz200.ar.00
+add voice_eng/bb/cpz_cmn.ar.01
 add voice_eng/bb/#cpz200.arl
 add voice_eng/bb/#cte200.ar.00
 add voice_eng/bb/#cte200.arl
@@ -81,6 +80,7 @@ add voice_eng/bb3/etfdoor.ar.00
 add voice_eng/bb3/etfdoor.arl
 add voice_jpn/bb/#cpz200.ar.00
 add voice_jpn/bb/#cpz200.arl
+add voice_jpn/bb/cpz_cmn.ar.01
 add voice_jpn/bb/#cte200.ar.00
 add voice_jpn/bb/#cte200.arl
 add voice_jpn/bb/#ghz200.ar.00

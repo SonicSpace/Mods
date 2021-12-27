@@ -1,8 +1,3 @@
-## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3.3
-
-- BugFix: Fixed issue causing RainbowRings to go blank in Empire City.
-
-
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3.2
 
 - Removal: Sonic Unleashed PS3/Xbox Controller Type // Notes - Use Sonic Unleashed HUD for: To show the types of controls on screen, the Mod is much more developed and has PS3/X360 or better versions. 
