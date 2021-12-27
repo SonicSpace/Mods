@@ -1,3 +1,8 @@
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3.3
+
+- BugFix: Fixed issue causing RainbowRings to go blank in Empire City.
+
+
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3.2
 
 - Removal: Sonic Unleashed PS3/Xbox Controller Type // Notes - Use Sonic Unleashed HUD for: To show the types of controls on screen, the Mod is much more developed and has PS3/X360 or better versions. 
@@ -6,7 +11,7 @@ Link For Download:(https://gamebanana.com/mods/33968)
 
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3.1
 
-- BugFix: Fixed issue with Rainbow Rings turning white when you finish playing a Jungle Joyride level/other levels.
+- BugFix: Fixed issue causing RainbowRings to go blank when exiting Jungle Joyride and going to other levels.
 
 
 ## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - v3.3
@@ -66,3 +71,8 @@ Link For Download:(https://gamebanana.com/mods/33968)
 
 - Addition: Japanese Voice Version
 - Removal: Sonic Unleashed Results - Temporarily
+
+
+## Sonic Unleashed Wii & PS2 Voice Mod (To Unleashed Project) - Release
+
+- Initial: First release
