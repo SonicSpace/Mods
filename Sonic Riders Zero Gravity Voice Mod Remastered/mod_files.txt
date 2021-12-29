@@ -1,0 +1,9 @@
+add mod.ini
+add readme.txt
+add SonicSpace.dll
+add SRZGVoice.hmm
+add SRZGVoice.json
+add core_vENG\bb3\Voices\English\SonicVoice.ar.00
+add core_vENG\bb3\Voices\English\SonicVoice.arl
+add core_vJPN\bb3\Voices\English\SonicVoice.ar.00
+add core_vJPN\bb3\Voices\English\SonicVoice.arl

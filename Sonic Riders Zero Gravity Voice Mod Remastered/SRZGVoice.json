@@ -1,0 +1,40 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Sonic Riders: Zero Gravity Voice Mod Remastered - Configuration",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Select Voice Type:",
+               "Description": [
+                  "This system determines which voices will be used within the game. Sonic Riders: Zero Gravity Voice - English or Japanese."
+               ],
+               "Type": "VoiceEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_vENG"
+            }
+         ]
+      }
+   ],
+   "Enums": {
+      "VoiceEnum": [
+         {
+            "DisplayName": "English",
+            "Value": "core_vENG",
+            "Description": [
+               "Use the English voice made for Sonic Riders: Zero Gravity (Jason Griffith)"
+            ]
+         },
+         {
+            "DisplayName": "Japanese",
+            "Value": "core_vJPN",
+            "Description": [
+               "Use the Japanese voice made for Sonic Riders: Zero Gravity (Jun'ichi Kanemaru)"
+            ]
+         }
+      ]
+   },
+   "IniFile": "mod.ini"
+}
