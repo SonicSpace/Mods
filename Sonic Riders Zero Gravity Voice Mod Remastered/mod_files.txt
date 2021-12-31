@@ -1,11 +1,11 @@
+delete SonicSpace.dll
+delete SRZGVoice.hmm
 delete core_vENG\bb3\Voices\English\SonicVoice.ar.00
 delete core_vENG\bb3\Voices\English\SonicVoice.arl
 delete core_vJPN\bb3\Voices\English\SonicVoice.ar.00
 delete core_vJPN\bb3\Voices\English\SonicVoice.arl
 add mod.ini
 add readme.txt
-add SonicSpace.dll
-add SRZGVoice.hmm
 add SRZGVoice.json
 add core_vENG/bb3/Voices/English/SonicVoice.ar.00
 add core_vENG/bb3/Voices/English/SonicVoice.arl

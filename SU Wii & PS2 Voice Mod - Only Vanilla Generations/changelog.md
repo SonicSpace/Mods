@@ -33,7 +33,7 @@ Link For Download:(https://gamebanana.com/mods/33968)
 - Improvement: Sonic Unleashed Results - Working perfectly.
 
 
-## Sonic Unleashed Wii & PS2 Voice Mod (To Vanilla Generations) - - v2.0
+## Sonic Unleashed Wii & PS2 Voice Mod (To Vanilla Generations) - v2.0
 
 - Addition: Quick Step SFX From Sonic Unleashed Wii/PS2.
 - Addition: Now you can configure in HedgeModManager if you want a Japanese or English version *Note: Quick Step Works in Both Languages.*
