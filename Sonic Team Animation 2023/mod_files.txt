@@ -1,0 +1,10 @@
+add mod.ini
+add bb3.ini
+add movie/sega_logo_us.sfd
+add movie/up_sega_logo.sfd
+add NoticeBoard.ar.00
+add NoticeBoard.arl
+add SegaLogo.ar.00
+add SegaLogo.arl
+add SegaLogoJP.ar.00
+add SegaLogoJP.arl
